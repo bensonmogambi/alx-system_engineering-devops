@@ -1,2 +1,2 @@
 #!bin/bash
-find ./* -type d -print | -l
+find ./* -type d -print | -1
