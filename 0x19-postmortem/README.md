@@ -1,4 +1,7 @@
-# Postmortem
+# Postmortem 
+
+
+
 
 Upon the release of ALX's System Engineering & DevOps project 0x19, at approximately 06:00 East African Time (EAT) here in Nairobi, Kenya, an outage occurred on an isolated Ubuntu 14.04 container running an Apache web server. GET requests on the server led to 500 Internal Server errors when the expected response was an HTML file defining a simple Holberton WordPress site.
 
